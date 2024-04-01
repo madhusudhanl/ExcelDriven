@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-02-07T09:24:19 IST" name="Default suite" finished-at="2024-02-07T09:24:20 IST" duration-ms="1358">
+    <groups>
+    </groups>
+    <test started-at="2024-02-07T09:24:19 IST" name="Default test" finished-at="2024-02-07T09:24:20 IST" duration-ms="1358">
+      <class name="DataDrivenExcel.ExcelDriven.dataDrivenTest">
+        <test-method signature="testCaseData(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:DataDrivenExcel.ExcelDriven.dataDrivenTest@246f8b8b]" started-at="2024-02-07T09:24:20 IST" name="testCaseData" data-provider="exceldata" finished-at="2024-02-07T09:24:20 IST" duration-ms="12" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[login]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[madhu]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[pass]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[456]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCaseData -->
+        <test-method signature="testCaseData(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:DataDrivenExcel.ExcelDriven.dataDrivenTest@246f8b8b]" started-at="2024-02-07T09:24:20 IST" name="testCaseData" data-provider="exceldata" finished-at="2024-02-07T09:24:20 IST" duration-ms="9" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[purchase]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[prod1]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[prod2]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCaseData -->
+        <test-method signature="testCaseData(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:DataDrivenExcel.ExcelDriven.dataDrivenTest@246f8b8b]" started-at="2024-02-07T09:24:20 IST" name="testCaseData" data-provider="exceldata" finished-at="2024-02-07T09:24:20 IST" duration-ms="3" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[checkout]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[amt1]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[amt2]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[789]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCaseData -->
+      </class> <!-- DataDrivenExcel.ExcelDriven.dataDrivenTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
